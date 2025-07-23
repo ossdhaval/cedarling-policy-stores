@@ -9,6 +9,11 @@
                     "description": "",
                     "creation_date": "2025-07-23T09:57:06.348765",
                     "policy_content": "QGlkKCIiKQpwZXJtaXQocHJpbmNpcGFsID09IEphbnM6OlVzZXI6OiJBbGljZSIsIGFjdGlvbiA9PSBKYW5zOjpBY3Rpb246OiJSZWFkIiwgcmVzb3VyY2UgPT0gSmFuczo6QXBwbGljYXRpb246OiJ0b2RvIik7"
+                },
+                "2227b487ece354ac4bf822f5f0f1f083532361db2691": {
+                    "description": "",
+                    "creation_date": "2025-07-23T09:59:55.341180",
+                    "policy_content": "QGlkKCIiKQpwZXJtaXQocHJpbmNpcGFsID09IEphbnM6OlVzZXI6OiJKYWNrIiwgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IlNlYXJjaCIsIHJlc291cmNlID09IEphbnM6OlJvbGU6OiJTZWFyY2hhYmxlIik7"
                 }
             },
             "trusted_issuers": {},
