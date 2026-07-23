@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.9.0",
+    "policy_store": {
+        "id": "9496b204911615307f6338de8a18c6885f2370793c31",
+        "name": "todo_app_policy_store",
+        "description": "",
+        "version": "0.0.1",
+        "created_date": "2026-07-23T10:49:08.451512+00:00",
+        "updated_date": "2026-07-23T10:49:08.451512+00:00"
+    }
+}

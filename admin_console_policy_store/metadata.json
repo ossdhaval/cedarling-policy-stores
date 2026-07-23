@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.9.0",
+    "policy_store": {
+        "id": "fef93bdeb9665c6a027fed6d3d036f04dcc099766d23",
+        "name": "admin_console_policy_store",
+        "description": "Policies for administration console app",
+        "version": "0.0.1",
+        "created_date": "2026-07-23T10:49:08.452112+00:00",
+        "updated_date": "2026-07-23T10:49:08.452112+00:00"
+    }
+}
